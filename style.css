@@ -1,0 +1,30 @@
+/*background image
+
+card
+1. image
+2. main text
+    a. header
+    b. paragraph
+3. annual plan
+    a. icon
+    b. text
+        1.header
+        2.price
+    c. change button
+4. payment button
+5. cancel button
+*/
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+  max-width: 360px;
+  margin: 0 auto;
+  border: 2px solid red;
+}
